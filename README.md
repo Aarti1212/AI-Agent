@@ -13,8 +13,8 @@ Follow these steps to set up and run the project locally.
 ## Installation
 Clone this repository to your local machine:
 
-- git clone [your-repository-url]
-- cd [your-project-folder]
+- git clone [repository-url]
+- cd [project-folder]
 
 ## Install Dependencies
 
