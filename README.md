@@ -30,11 +30,15 @@ OPENAI_API_KEY="your-api-key-here"
 
 
 ## Running the Project
-1. To run the story generator in your terminal, simply execute the main.py script:
+Option 1: Terminal
+
+To run the story generator in your terminal, simply execute the main.py script:
 
     python main.py
 
-2. To run the project with Streamlit UI execute:
+Option 2: Streamlit UI
+
+To run the project with Streamlit UI execute:
 
     streamlit run app.py
 
